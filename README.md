@@ -32,6 +32,8 @@ Keyword-based search is broken. It matches words, not *meaning*. You miss out on
 <div align="center">
 <h3>✨ App Preview ✨</h3>
 <img src="https://github.com/user-attachments/assets/bc5bafd9-97cd-4504-bdc7-07f396434540" alt="A screenshot of the CineVerse Finder application, showing a search bar and movie results displayed in a clean card format." width="800"/>
+<br>
+<p><strong><a href="https://semantic-search-by-luthfillah.streamlit.app/" target="_blank">🚀 View the Live App!</a></strong></p>
 </div>
 
 ## 🚀 Key Features
